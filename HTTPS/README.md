@@ -1,9 +1,9 @@
 # HTTPS Project
 
 ## Structure:
-Part 1: HTTP is not secured
-Part 2: Symmetric Key Crypto is secured but difficult to exchnage keys
-Part 3: Asymmetric Key Crypto & Digital Certificate
+Part 1: HTTP is not secured<br>
+Part 2: Symmetric Key Crypto is secured but difficult to exchnage keys<br>
+Part 3: Asymmetric Key Crypto & Digital Certificate<br>
 
 ## Technology:
 1. Client/Server Communication
