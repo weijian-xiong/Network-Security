@@ -7,22 +7,22 @@ Part 3: Asymmetric Key Crypto & Digital Certificate<br>
 
 ## Technology:
 1. Client/Server Communication
-- Used Python 3.6.9 to implement socket program for client/server communication in ubuntu 18.04.
+    - Used Python 3.6.9 to implement socket program for client/server communication in ubuntu 18.04.
 
 2. Wireshark
-- Monitor and analyze network traffic
+    - Monitor and analyze network traffic
     
 3. Prevent Attack
 
 4. Cryptography
-- Symmetric key cryptography
-    - Fernet library
+    - Symmetric key cryptography
+        - Fernet library
     
-- Asymmetric key cryptography
+    - Asymmetric key cryptography
        
 5. Digital Certificate
-- Certificate Signing Request (CSR) 
-- X.509 format
+    - Certificate Signing Request (CSR) 
+    - X.509 format
     
 ## Environment: 
 - Ubuntu 18.04
