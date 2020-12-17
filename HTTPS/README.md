@@ -12,15 +12,13 @@ Part 3: Asymmetric Key Crypto & Digital Certificate<br>
 2. Wireshark
     - Monitor and analyze network traffic
     
-3. Prevent Attack
-
-4. Cryptography
+3. Cryptography
     - Symmetric key cryptography
         - Fernet library
     
     - Asymmetric key cryptography
        
-5. Digital Certificate
+4. Digital Certificate
     - Certificate Signing Request (CSR) 
     - X.509 format
     
